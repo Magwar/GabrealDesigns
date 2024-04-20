@@ -1,2 +1,2 @@
 # GabrealDesigns
-A website forGabreal Designs, a leading graphic design company in Kenya.
+A website for Gabreal Designs, a leading graphic design company in Kenya.
